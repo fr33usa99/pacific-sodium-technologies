@@ -39,3 +39,12 @@
 
 !.gitignore
 
+
+!README.md
+
+
+!.gitattributes
+
+
+!**/.gitkeep
+
