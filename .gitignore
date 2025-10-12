@@ -1,0 +1,41 @@
+﻿# Ignore everything by default
+*
+
+# Allow folders
+!*/
+
+# KEEP: documents
+!*.pdf
+!*.txt
+!*.doc
+!*.docx
+!*.ppt
+!*.pptx
+!*.csv
+!*.srt
+
+# KEEP: images
+!*.png
+!*.jpg
+!*.jpeg
+!*.webp
+
+# KEEP: video
+!*.mp4
+!*.webm
+
+# NEVER track DAZ / scripts / caches (even if they sneak in)
+*.dsf
+*.duf
+*.dse
+*.db
+*.tmp
+*.log
+*.py
+*.pyc
+*.pyo
+*.rpy
+*.rpyc
+
+!.gitignore
+
