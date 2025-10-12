@@ -1,0 +1,98 @@
+**Pacific Sodium Technologies — Modular Pilot Factory Blueprint**
+
+**Project Title**: Salton Sea Pilot Facility v1.0  
+**Company**: Pacific Sodium Technologies LLC  
+**Location**: Salton Sea Basin, California  
+**Lead**: Adam A. Sanchez, Sole Member & Manager  
+**Date**: April 25, 2025
+
+---
+
+### I. Mission
+To establish a scalable, fire-safe sodium-ion battery production system powered by geothermal energy and supplied by brine-extracted sodium. The Salton Sea site will serve as a zero-waste, closed-loop demonstration of domestic energy innovation.
+
+---
+
+### II. Facility Overview
+
+**Site Type**: Modular prefabricated structure on leased industrial land  
+**Phase**: MVP (Minimum Viable Plant)  
+**Size**: ~5,000 sq ft footprint
+
+#### Key Zones:
+1. **Brine Intake Bay**  
+   - Partnership with existing geothermal operators (BHE Renewables / Controlled Thermal Resources)
+   - Secure, filtered inflow pipe from brine return systems
+
+2. **Sodium Extraction Room**  
+   - Crystallization and filtration tanks
+   - Automated skimmer + membrane purification
+
+3. **Battery-Grade Processing Lab**  
+   - Dry-room controlled area for sodium sulfate conversion
+   - Bench-scale testing for electrode formulation (NaFePO4, NaTiO, etc.)
+
+4. **Cell Manufacturing Floor**  
+   - Coin-cell and pouch cell production line
+   - Precision rollers, sealers, electrolyte injection under dry conditions
+
+5. **Reinjection & Water Recycling System**  
+   - Waste brine recomposition and re-balancing
+   - Monitored reinjection via return pipe into Salton Sea or geothermal basin
+
+6. **Geothermal Heat Loop Integration**  
+   - Heat exchangers integrated with adjacent geothermal outlet
+   - Provides 80–120°C process energy without external power grid
+
+7. **Control Room & Public Dashboard**  
+   - Real-time monitoring of brine chemistry, sodium yield, and environmental metrics
+   - Public transparency screens + stakeholder livestream feed
+
+---
+
+### III. Environmental and Energy Compliance
+- 100% reinjection of brine effluent
+- Closed-loop zero freshwater use
+- No lithium, cobalt, nickel, or manganese inputs
+- Fully fire-safe sodium-ion design
+- Air quality permit: Required
+- Brine handling compliance: In coordination with CA Geothermal Resource Boards
+
+---
+
+### IV. Pilot Output Goals (Year 1)
+| Metric                       | Target             |
+|-----------------------------|--------------------|
+| Brine processed per day     | 4,000 liters       |
+| Sodium recovered per day    | 35–50 kg           |
+| Battery cells per month     | ~2,000 (pouch)     |
+| Power capacity (monthly)    | ~2.4 MWh output    |
+
+
+---
+
+### V. Staffing Plan (Pilot Phase)
+- 1 Operations Manager (Adam Sanchez)
+- 1 Brine Systems Technician
+- 2 Cell Fabrication Engineers
+- 1 Environmental & QA Analyst
+- 1 Logistics / Material Handler
+
+---
+
+### VI. Next Milestones
+- ☐ Site lease secured (target: Imperial County Industrial Zone)
+- ☐ Environmental clearance initiated
+- ☐ Brine partner MOU signed
+- ☐ Phase 1 equipment quote received (target: <$800K turnkey)
+- ☐ Modular buildout plan approved
+- ☐ Ribbon-cutting target: Q2 2026
+
+---
+
+**Let’s make the Salton Sea power America’s battery transition.**
+
+Prepared by:  
+**Adam A. Sanchez**  
+Pacific Sodium Technologies LLC
+
