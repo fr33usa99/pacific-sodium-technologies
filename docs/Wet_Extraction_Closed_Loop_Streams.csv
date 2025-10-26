@@ -1,0 +1,15 @@
+Stream,From→To,Phase,Notes
+S1,Sea → Pretreatment,Liquid,Screened seawater; low-velocity fish-safe intake
+S2,Pretreatment → Splitter,Liquid,"Filtered, UV/ozone treated, deaerated; H₂S scrubbed"
+S3a,Splitter → Silica line,Slurry,pH-shift to precipitate silica; to filter press (damp cake)
+S3b,Splitter → Mg(OH)₂ line,Slurry,Lime addition; thicken to 45–55% solids
+S3c,Splitter → NaCl/KCl line,Liquid,To staged crystallizers; damp granules + saturated brine
+S3d,Splitter → Na₂SO₄ line,Liquid,Evap/cool crystallizer; damp cake 10–20% H₂O
+S3e,Splitter → CaCO₃ line,Slurry,CO₂ contactor; 40–50% solids slurry
+S4,Product lines → Dewater,Slurry/Damp,Filter press/clarifier/decanter; no dryers
+S5,Dewater → Packout,Slurry/Damp,"IBC totes, lined supersacks, tankers"
+S6,Splitter → Plate HX,Liquid,Cooling flow to HX; no contact with servers
+S7,Plate HX → QA Blend,Liquid,Tempered seawater; mix with treated residuals if any
+S8,QA → Salton Sea Outfall,Liquid,Meets ΔT/salinity; monitored T/DO/salinity/pH
+S9,RO/EDR → Permeate tank,Liquid,High-purity water for plant use or sale
+S10,Servers Primary Loop,Liquid,Commercial dielectric only; isolated loop
